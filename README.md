@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/omarshobaki-png/omarshobaki-png/main/header.svg" width="100%" alt="Header">
+<img src="https://raw.githubusercontent.com/omarshobaki-png/omarshobaki-png/main/header.svg" width="100%" alt="Omar Shobaki">
 
 <br/>
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/omarshobaki-png/omarshobaki-png/main/skills.svg" width="100%" alt="Skills">
+<img src="https://raw.githubusercontent.com/omarshobaki-png/omarshobaki-png/main/skills.svg" width="100%" alt="Tech Stack">
 
 <br/>
 
